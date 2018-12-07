@@ -15,3 +15,6 @@ tech. Contributions welcome! Create a PR or contact
 
 ## February 2019
 * [SisterHacks](http://sisterhacks.co/) (Bryn Mawr College): February 23-24
+
+## February 2019
+* [WeCode] (https://www.wecodeharvard.org/) (Harvard University): February 22- 24
